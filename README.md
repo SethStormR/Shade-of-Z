@@ -2,7 +2,7 @@
 
 Shade of Z is an icon set for Zorin OS  (16). It aims to streamline the icons in the Zorin envoriment, so application icons are in match with the panel icons (menu launcher, systray etc.). Shade of Z is based on Papirus icon theme.
 
-I'll take requests for which app icons I should put in next. If I get no requests I take (almost) randomly from the long list of apps and put it in as I go. So don't hesitate with the list of apps you think I should put in. 
+I'll take requests for which app icons I should put in next. If I get no requests I take (almost) randomly from the long list of apps and put it in as I go. So don't hesitate with the list of apps you think I should put in. You can make a request here under "issues" or go to Zorin OS forum and post it in this thread: https://forum.zorin.com/t/shade-of-z-icon-themes-for-zorin-os/4349
 
 ![Preview](https://user-images.githubusercontent.com/60283532/116978126-98f93080-acc3-11eb-933b-895328574f9c.png)
 
