@@ -6,7 +6,8 @@ I'll take requests for which app icons I should put in next. If I get no request
 
 NOTE: If you use snap of a specific app the icon won't change. This is due to that icons are hard coded into the snap package and you have to manually set the icon with "menu editor".
 
-![Preview](https://user-images.githubusercontent.com/60283532/116978126-98f93080-acc3-11eb-933b-895328574f9c.png)
+![1](https://user-images.githubusercontent.com/60283532/124376675-6e6a2a80-dca8-11eb-9f24-61ac0dff3c6a.png)
+
 
 Shade of Z comes with a variety of custom folders (v.0.3+) and colors (v.0.2+) that fit the default GTK colors of Zorin OS.
 
