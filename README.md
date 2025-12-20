@@ -8,8 +8,6 @@ NOTE: If you use snap of a specific app the icon won't change. This is due to th
 
 Screenshots
 --
-![bf7680269424f44d62379aefa7bfd824f6eac870d799a08aa2b5f577f5087c00b992](https://user-images.githubusercontent.com/60283532/126460456-8c5b3579-dfef-4cd7-a06d-ede28c29c13e.png)
-
 <img width="1920" height="1080" alt="Screenshot from 2025-12-18 18-34-51" src="https://github.com/user-attachments/assets/29fecf4b-4676-4c0b-8280-0a694e3c68d3" />
 
 <img width="1920" height="1080" alt="Screenshot from 2025-12-19 10-55-16" src="https://github.com/user-attachments/assets/72958a8a-bc5a-4f5a-a2b1-0d8b2433cf59" />
