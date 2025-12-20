@@ -6,16 +6,10 @@ I'll take requests for which app icons I should put in next. If I get no request
 
 NOTE: If you use snap of a specific app the icon won't change. This is due to that icons are hard coded into the snap package and you have to manually set the icon with "menu editor".
 
+Screenshots
+--
 ![bf7680269424f44d62379aefa7bfd824f6eac870d799a08aa2b5f577f5087c00b992](https://user-images.githubusercontent.com/60283532/126460456-8c5b3579-dfef-4cd7-a06d-ede28c29c13e.png)
 
+<img width="1920" height="1080" alt="Screenshot from 2025-12-18 18-34-51" src="https://github.com/user-attachments/assets/29fecf4b-4676-4c0b-8280-0a694e3c68d3" />
 
-Shade of Z comes with a variety of custom folders (v.0.3+) and colors (v.0.2+) that fit the default GTK colors of Zorin OS.
-
-![Shade of Z - colors](https://user-images.githubusercontent.com/60283532/118347989-85618b80-b547-11eb-8d39-3c9092f6f728.gif)
-
-As a bonus: Orchis Black color icons which fits nicely to the Orchis GTK theme which are available here: https://github.com/vinceliuice/Orchis-theme
-
-![Screenshot from 2021-05-15 05-01-36](https://user-images.githubusercontent.com/60283532/118361443-c2e80800-b58b-11eb-8958-2cc6fe54c1e1.png)
-
-
-
+<img width="1920" height="1080" alt="Screenshot from 2025-12-19 10-55-16" src="https://github.com/user-attachments/assets/72958a8a-bc5a-4f5a-a2b1-0d8b2433cf59" />
